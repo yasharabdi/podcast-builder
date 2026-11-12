@@ -146,6 +146,10 @@ podcast-builder/
 
 - Audio is generated with ElevenLabs. Check their terms and your plan's rules before publishing or using generated audio commercially.
 
+## License
+
+MIT License. See [LICENSE](LICENSE)
+
 ## Author
 
 Built by [Yashar Abdi](https://github.com/yasharabdi).
