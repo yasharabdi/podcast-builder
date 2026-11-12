@@ -1,0 +1,6 @@
+.env
+temp_*.mp3
+*.mp3
+!examples/sample.mp3
+__pycache__/
+.vscode/
